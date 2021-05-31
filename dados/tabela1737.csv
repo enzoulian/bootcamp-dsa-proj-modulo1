@@ -1,0 +1,26 @@
+﻿"Tabela 1737 - IPCA - Série histórica com número-índice, variação mensal e variações acumuladas em 3 meses, em 6 meses, no ano e em 12 meses (a partir de dezembro/1979)"
+"Variável - IPCA - Variação acumulada em 12 meses (%)"
+"";"Mês"
+"";"janeiro 2008";"fevereiro 2008";"março 2008";"abril 2008";"maio 2008";"junho 2008";"julho 2008";"agosto 2008";"setembro 2008";"outubro 2008";"novembro 2008";"dezembro 2008";"janeiro 2009";"fevereiro 2009";"março 2009";"abril 2009";"maio 2009";"junho 2009";"julho 2009";"agosto 2009";"setembro 2009";"outubro 2009";"novembro 2009";"dezembro 2009";"janeiro 2010";"fevereiro 2010";"março 2010";"abril 2010";"maio 2010";"junho 2010";"julho 2010";"agosto 2010";"setembro 2010";"outubro 2010";"novembro 2010";"dezembro 2010";"janeiro 2011";"fevereiro 2011";"março 2011";"abril 2011";"maio 2011";"junho 2011";"julho 2011";"agosto 2011";"setembro 2011";"outubro 2011";"novembro 2011";"dezembro 2011";"janeiro 2012";"fevereiro 2012";"março 2012";"abril 2012";"maio 2012";"junho 2012";"julho 2012";"agosto 2012";"setembro 2012";"outubro 2012";"novembro 2012";"dezembro 2012";"janeiro 2013";"fevereiro 2013";"março 2013";"abril 2013";"maio 2013";"junho 2013";"julho 2013";"agosto 2013";"setembro 2013";"outubro 2013";"novembro 2013";"dezembro 2013";"janeiro 2014";"fevereiro 2014";"março 2014";"abril 2014";"maio 2014";"junho 2014";"julho 2014";"agosto 2014";"setembro 2014";"outubro 2014";"novembro 2014";"dezembro 2014";"janeiro 2015";"fevereiro 2015";"março 2015";"abril 2015";"maio 2015";"junho 2015";"julho 2015";"agosto 2015";"setembro 2015";"outubro 2015";"novembro 2015";"dezembro 2015";"janeiro 2016";"fevereiro 2016";"março 2016";"abril 2016";"maio 2016";"junho 2016";"julho 2016";"agosto 2016";"setembro 2016";"outubro 2016";"novembro 2016";"dezembro 2016";"janeiro 2017";"fevereiro 2017";"março 2017";"abril 2017";"maio 2017";"junho 2017";"julho 2017";"agosto 2017";"setembro 2017";"outubro 2017";"novembro 2017";"dezembro 2017";"janeiro 2018";"fevereiro 2018";"março 2018";"abril 2018";"maio 2018";"junho 2018";"julho 2018";"agosto 2018";"setembro 2018";"outubro 2018";"novembro 2018";"dezembro 2018";"janeiro 2019";"fevereiro 2019";"março 2019";"abril 2019";"maio 2019";"junho 2019";"julho 2019";"agosto 2019";"setembro 2019";"outubro 2019";"novembro 2019";"dezembro 2019";"janeiro 2020";"fevereiro 2020";"março 2020";"abril 2020";"maio 2020";"junho 2020";"julho 2020";"agosto 2020";"setembro 2020";"outubro 2020";"novembro 2020";"dezembro 2020";"janeiro 2021";"fevereiro 2021";"março 2021";"abril 2021"
+"Brasil";"4,56";"4,61";"4,73";"5,04";"5,58";"6,06";"6,37";"6,17";"6,25";"6,41";"6,39";"5,90";"5,84";"5,90";"5,61";"5,53";"5,20";"4,80";"4,50";"4,36";"4,34";"4,17";"4,22";"4,31";"4,59";"4,83";"5,17";"5,26";"5,22";"4,84";"4,60";"4,49";"4,70";"5,20";"5,63";"5,91";"5,99";"6,01";"6,30";"6,51";"6,55";"6,71";"6,87";"7,23";"7,31";"6,97";"6,64";"6,50";"6,22";"5,84";"5,24";"5,10";"4,99";"4,92";"5,20";"5,24";"5,28";"5,45";"5,53";"5,84";"6,15";"6,31";"6,59";"6,49";"6,50";"6,70";"6,27";"6,09";"5,86";"5,84";"5,77";"5,91";"5,59";"5,68";"6,15";"6,28";"6,37";"6,52";"6,50";"6,51";"6,75";"6,59";"6,56";"6,41";"7,14";"7,70";"8,13";"8,17";"8,47";"8,89";"9,56";"9,53";"9,49";"9,93";"10,48";"10,67";"10,71";"10,36";"9,39";"9,28";"9,32";"8,84";"8,74";"8,97";"8,48";"7,87";"6,99";"6,29";"5,35";"4,76";"4,57";"4,08";"3,60";"3,00";"2,71";"2,46";"2,54";"2,70";"2,80";"2,95";"2,86";"2,84";"2,68";"2,76";"2,86";"4,39";"4,48";"4,19";"4,53";"4,56";"4,05";"3,75";"3,78";"3,89";"4,58";"4,94";"4,66";"3,37";"3,22";"3,43";"2,89";"2,54";"3,27";"4,31";"4,19";"4,01";"3,30";"2,40";"1,88";"2,13";"2,31";"2,44";"3,14";"3,92";"4,31";"4,52";"4,56";"5,20";"6,10";"6,76"
+"Fonte: IBGE - Índice Nacional de Preços ao Consumidor Amplo"
+
+"Notas"
+"1 - Período de coleta ajustado ao mês civil (do primeiro ao trigésimo dia de cada mês), para os meses anteriores a março de 1986."
+""
+"Legenda"
+"Símbolo";"Significado"
+"-";"Zero absoluto, não resultante de um cálculo ou arredondamento.
+Ex: Em determinado município não existem pessoas de 14 anos de idade sem instrução."
+"0";"Zero resultante de um cálculo ou arredondamento.
+Ex: A inflação do feijão em determinada Região Metropolitana foi 0.
+Determinado município produziu 400 kg de sementes de girassol e os dados da tabela são expressos em toneladas."
+"X";"Valor inibido para não identificar o informante.
+Ex: Determinado município só possui uma empresa produtora de cimento, logo o valor de sua produção deve ser inibido."
+"..";"Valor não se aplica.
+Ex: Não se pode obter o total da produção agrícola em determinado município quando os produtos agrícolas são contabilizados com unidades de medida distintas."
+"...";"Valor não disponível.
+Ex: A produção de feijão em determinado município não foi pesquisada ou determinado município não existia no ano da pesquisa."
+"A a Z
+(exceto X)";"Significa uma faixa de valores. Varia em função da tabela (se for o caso).
+Ex: O nível de precisão da produção estimada de combustíveis está na faixa A (95 a 100%)"
