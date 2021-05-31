@@ -40,4 +40,4 @@ Aplicando o índice IPCA sobre o período de 2008 a 2020 referente ao estado, pl
 
 O gráfico a seguir representa o resultado deste projeto, na qual podemos perceber que, quanto maior a distância entre as linhas, mais "caro" foi a média do valor das AIH sobre o bolso do cliente (seja ele governo ou cidadão).
 
-![image info](/ipca.bmp)
+![image info](/ipca_valor.bmp)
